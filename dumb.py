@@ -1,7 +1,4 @@
-from cgitb import text
-from turtle import width
 import customtkinter
-import tkinter
 import random
 
 app = customtkinter.CTk()
