@@ -1,3 +1,4 @@
-﻿# Are you a dumb Game 
-## Are you a dumb is a sarcastic game that is widely known. This is a recreation of that game using popular python GUI library tkinter
-## Not exactly tkinter but a fork named customtkinter
+﻿<h1 align="center">
+    <b>Are You a Dumb?</b>
+</h1>
+"Are You a Dumb?" is a sarcastic game written in the Python GUI library, tkinter. Not exactly tkinter, but a fork named CustomTkinter.
