@@ -7,8 +7,11 @@
 Clone the repository
 ```git clone https://github.com/ShuhaibNC/dumb```
 
+Change directory
+```cd dumb```
+
 Install requirements
 ```pip install -r requirements.txt```
 
 Run dumb.py
-```python3 dumb.py```
+```py dumb.py```
